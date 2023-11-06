@@ -1,5 +1,3 @@
-# Kanban_Produtividade
-
 # Projeto de Produtividade Kanban com PyQt5
 
 Este aplicativo é uma ferramenta de produtividade inspirada no método Kanban. Ele permite aos usuários gerenciar tarefas em diferentes estágios de execução, representados por três colunas: "A Fazer", "Em Progresso" e "Concluído".
